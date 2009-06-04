@@ -68,6 +68,7 @@ public class SimpleDataURLGenerator<T extends Number> extends DataURLGenerator<T
         
         if(max < simpleEncoder.getMax())
           max=simpleEncoder.getMax();
+        
       }
     }
     
